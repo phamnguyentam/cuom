@@ -1,0 +1,39 @@
+
+}
+h1{
+    color: blue;
+    font-size: 40px;
+}
+li{
+    color: cadetblue;
+}
+ul.danhsach{
+    list-style: none;
+    display: flex;
+    width: 900px;   
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+.menu{
+    background-color: blue;
+    height: 40px;
+    width: 100%;
+}
+ul.danhsach a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;  
+    font-size: 20px;
+    padding-top: 3px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    display: block;
+    transition: 0.4s;
+}
+ul.danhsach a:hover {
+    background-color: rgb(64, 58, 70);
+    padding-top: 4px;
+    padding-bottom: 10px;
+}
