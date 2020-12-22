@@ -1,0 +1,26 @@
+.bander {
+    display: flex;
+    margin: auto;
+    width: 1230px;
+    height: 490px;
+
+}
+.bander ._1{
+    width: 218px;
+}
+.bander ._2{
+    width: 525px;
+}
+.bander ._2 .tren{
+    height: 330px;
+}
+.bander ._2 .duoi{
+    height: 160px;
+    display: flex;
+}
+.bander ._2 .duoi .nuagiua{
+    width: 50%;
+}
+.bander ._3{
+    width: 372px;
+}

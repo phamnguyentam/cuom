@@ -1,0 +1,11 @@
+.myslide{
+    width: 500px;
+    height: 300px;
+}
+.myslide img{
+    width: 500px;
+}
+.active{
+    display: none;
+}
+582 362
