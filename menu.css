@@ -1,0 +1,28 @@
+ul{
+    display: block;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto  ;
+    text-align: center;
+}
+li{
+    list-style: none;
+    background-color: rgb(99, 54, 54);
+    
+    display: block;
+    
+    margin-left: 1px;
+    
+   float: left;
+    
+}
+a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(220, 220, 230);
+    border: solid;
+    border-color: palevioletred;
+    
+}
+a:hover{
+    text-decoration: black;
+}

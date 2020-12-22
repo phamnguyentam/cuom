@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(245, 98, 237);
+    
+   
+}
+body .SlickRed{
+    background-color: rgb(209, 209, 104);
+    
+
+
+
+    
+}
+body .menu{
+    background-color: rgb(173, 46, 46);
+        height: 30px;
+        
+    
+}
+body .left{
+    background-color: rgb(75, 75, 161);
+    float: left;
+    width: 204px;
+    height: 150px;
+    
+}
+body .SlickRed  .menu{
+    border: solid;
+    border-color: red;
+}
+body .right{
+    background-color: rgb(165, 165, 55);
+    height: 100px;
+    border: solid;
+    border-color: green;
+}
+body .footer{
+    background-color: rgb(100, 40, 143);
+    height: 70px;
+    border: solid;
+    border-color: red;
+    float: none;
+    display: block;
+    
+}
