@@ -1,0 +1,24 @@
+
+.b{
+text-align: center;
+background-color: rgb(11, 30, 94);
+
+   
+}
+.b .c{
+    background: url(http://www.chelseafc.com.vn/uploads/logo-clubs/cfc_grad_background.png) 50% 0px repeat-y rgb(11, 30, 94);
+    display: inline-block;
+    height: 100px;
+   font-size: 40px;
+   justify-content: center;
+
+   
+    }
+.b {
+ padding-bottom: 40px;
+}    
+
+
+
+   
+
