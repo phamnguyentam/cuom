@@ -1,7 +1,25 @@
-.body{
-    background: palevioletred;
-
-}
-h1{
+body{
+    background-color: rgb(73, 40, 16);
     
+    display: block;
+    text-align: center;
 }
+p{
+    color: cornsilk;
+}
+body .menutren .menungang{
+    list-style: none;
+    display: flex;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.menutren{
+    background-color: rgb(32, 21, 11);
+}
+}
+   
+   
+   
+}
+
